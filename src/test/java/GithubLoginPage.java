@@ -24,6 +24,7 @@ public class GithubLoginPage {
     public void newLogin(String test, String test2) {
         System.out.println(test);
         System.out.println(test2);
+        System.out.println(test2);
     }
 }
 
